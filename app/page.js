@@ -11,7 +11,7 @@ export default function Home() {
         alignItems: "center",
         marginTop: "30px"
       }}>
-        <h1>Home Page</h1>
+        <h1>First Page of Next JS</h1>
       </div>
     </>
   );
